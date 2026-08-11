@@ -104,7 +104,8 @@ The dashboard contains four main analytical pages.
 Provides a high-level summary of IPL statistics with interactive
 filtering and navigation.
 
-![Overview Dashboard](ScreenShots/overview.png)
+![Overview Dashboard](Screenshots/1_Overview.png)
+
 
 ## 2️⃣ Batting Analysis
 
@@ -119,7 +120,8 @@ Focuses on batting performance including:
 -   Top run scorers
 -   Player-wise and season-wise analysis
 
-![Batting Analysis](ScreenShots/batting_analysis.png)
+![Batting Analysis](Screenshots/2_Batting_Analysis.png)
+
 
 ## 3️⃣ Bowling Analysis
 
@@ -134,7 +136,7 @@ Focuses on bowling performance including:
 -   Top wicket takers
 -   Season-wise analysis
 
-![Bowling Analysis](ScreenShots/bowling_analysis.png)
+![Bowling Analysis](Screenshots/3_Bowling_Analysis.png)
 
 ------------------------------------------------------------------------
 
